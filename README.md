@@ -1,6 +1,7 @@
 ## Desafio - Ignite Teams
 
-![ToDoApp-Desafio 1](https://github.com/Mariana-Gomes/todo-app/assets/64051327/4f48c915-367f-47bc-ae6f-c9ab3b8304c5)
+![DesafioIgniteTeams](https://github.com/user-attachments/assets/c01bfaea-b3af-4a15-bbaf-83a08f7b38e3)
+
 
 ## Qual era o desafio?
 
