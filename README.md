@@ -5,7 +5,7 @@
 
 ## Qual era o desafio?
 
-Nesse desafio, eu deveria recriar um app de criação de tarefas, a partir de um layout pronto no [Figma](https://www.figma.com/design/0zJEmz7yzHAe1FrNLfmhaF/Ignite-Teams-(Community)?node-id=37-6&node-type=CANVAS&t=pAwkMZPSAqmKeEaW-0).
+Nesse desafio, eu deveria recriar um app de criação de times, a partir de um layout pronto no [Figma](https://www.figma.com/design/0zJEmz7yzHAe1FrNLfmhaF/Ignite-Teams-(Community)?node-id=37-6&node-type=CANVAS&t=pAwkMZPSAqmKeEaW-0).
 
 
 ## O que há no app?
